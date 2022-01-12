@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_gp"
 copyright = u"2022, Gautham Pughazhendhi"
 author = u"Gautham Pughazhendhi"
 
